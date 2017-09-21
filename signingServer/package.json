@@ -1,0 +1,15 @@
+{
+  "name": "signingServer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-fileupload": "^0.2.0",
+    "react-s3-uploader": "^4.5.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node src/test.js"
+  }
+}

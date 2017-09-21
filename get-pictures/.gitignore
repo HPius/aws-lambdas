@@ -12,7 +12,3 @@ target
 
 # Serverless directories
 .serverless
-*.iml
-
-.idea/
-.DS_Store
