@@ -1,5 +1,15 @@
-/.idea
-/target
-*.iml
+*.class
+target
+/bin/
+/.settings/
+.project
+.classpath
 
-.DS_Store
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Serverless directories
+.serverless
+.iml
